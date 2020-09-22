@@ -78,6 +78,7 @@ $(document).ready(function() {
             }
           }
         } else {
+          console.log('false for data.messages && data.messages.length > 0');
           insertResponseMessage('Oops, something went wrong. Please try again.');
         }
       })

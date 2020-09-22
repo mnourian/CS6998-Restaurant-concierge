@@ -1,15 +1,9 @@
-# Chatbot Concierge | Frontend Starter #
+# Chatbot Concierge #
 
-## About ##
+Name of the people in the group: 
+Milad Nourian, Uni: mn3076
 
-Frontend starter repository for HW 1 of the Cloud Computing & Big Data
-class at Columbia University and New York University.
+S3 bucket link (website): https://restaurant-recommendation-6998.s3.amazonaws.com/cloud-hw1-starter/chat.html
 
-## Usage ##
-
-1. Clone the repository.
-2. Replace `/assets/js/sdk/apigClient.js` with your own SDK file from API
-   Gateway.
-3. Open `chat.html` in any browser.
-4. Start sending messages to test the chatbot interaction.
-
+Link to demo video (use Columbia email): 
+https://drive.google.com/file/d/142Dc986yiOKKIFpBLSE_mcbsJwLvd1rZ/view?usp=sharing
